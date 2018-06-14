@@ -1,13 +1,14 @@
 # TTA_academy 2018, Day 2 - Practice
 
 ## Materials
+
 ### oneM2M specs 
 http://www.onem2m.org/technical/published-drafts
 
 ### oneM2M short names
 https://drive.google.com/file/d/1OBVKmMI3dGAnW0BF2sGj9llseJg6lo0n/view
 
-## oneM2M resource type enumerations
+### oneM2M resource type enumerations
 1. accessControlPolicy
 2. AE
 3. container
@@ -27,9 +28,11 @@ https://drive.google.com/file/d/1OBVKmMI3dGAnW0BF2sGj9llseJg6lo0n/view
 29. timeSeries
 30. timeSeriesInstance
 
+### JSON Formatter & validator
+https://jsonformatter.curiousconcept.com/
+
 ## Environment Setting
 * Mobius
 * &Cube:Rosemary
 * Postman (Chrome extension)
 * MQTT Lense (Chrome extension)
-
