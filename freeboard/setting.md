@@ -1,2 +1,2 @@
-![datasource](/datasource.PNG)
-![widget](/widget.PNG)
+![datasource](./datasource.PNG)
+![widget](./widget.PNG)
