@@ -33,5 +33,5 @@
 * container group
 * latest instance group
 
-
-
+## dashboard app - freeboard
+* latest instance(s) of temp. sensor readings
