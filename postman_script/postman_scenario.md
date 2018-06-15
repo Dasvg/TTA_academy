@@ -1,3 +1,7 @@
+script collection:
+https://www.getpostman.com/collections/95e465d8ab6a8330591c
+
+
 ## AE Registration
 * preset AE-ID
 * dynamic AE-ID allocation
